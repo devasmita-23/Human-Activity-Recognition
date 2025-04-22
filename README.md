@@ -50,12 +50,13 @@ This project implements a machine learning pipeline for Human Activity Recogniti
 
 In the UCI HAR Dataset, the human activities identified (i.e., the labels in y_train.txt) are six predefined activities, each represented by a numeric code from 1 to 6. Here's the mapping:
 
-Label	 | Activity
-1	     |  Walking
-2	     |  Walking Upstairs
-3      |  Walking Downstairs
-4	     |  Sitting
-5	     |  Standing
-6	     |  Laying
+|Label	 | Activity |
+|----------|---------|
+|1	     |  Walking   |
+|2	     |  Walking Upstairs   |
+|3      |  Walking Downstairs   |
+|4	     |  Sitting            |
+|5	     |  Standing            |
+|6	     |  Laying               |
 
 
