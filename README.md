@@ -1,1 +1,1 @@
-# Dimensionality-Reduction
+# Human Activity Recognition
